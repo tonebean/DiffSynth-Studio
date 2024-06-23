@@ -4,7 +4,7 @@
 
 ## Example: Toon Shading (Diffutoon)
 
-Directly render realistic videos in a flatten style. In this example, you can easily modify the parameters in the config dict. See [`diffutoon_toon_shading.py`](./diffutoon_toon_shading.py). We also provide [an example on Colab](https://colab.research.google.com/github/Artiprocher/DiffSynth-Studio/blob/main/examples/Diffutoon.ipynb).
+Directly render realistic videos in a flatten style. In this example, you can easily modify the parameters in the config dict. See [`diffutoon_toon_shading.py`](./diffutoon_toon_shading.py). We also provide [an example on Colab](https://colab.research.google.com/github/tonebean/DiffSynth-Studio/blob/main/examples/Diffutoon/Diffutoon.ipynb).
 
 https://github.com/Artiprocher/DiffSynth-Studio/assets/35051019/b54c05c5-d747-4709-be5e-b39af82404dd
 
